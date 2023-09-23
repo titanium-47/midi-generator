@@ -1,0 +1,4 @@
+matplotlib=^3.3.4
+numpy=^1.19.2
+MIDIUtil=^1.2.1
+scipy=^1.5.2
